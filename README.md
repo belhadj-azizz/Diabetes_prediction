@@ -49,8 +49,8 @@ Through this project, I:
 - Learned how to analyze results for imbalanced data, going beyond accuracy to focus on recall and other relevant metrics.
 - Experimented with and applied different hyperparameter tuning strategies (e.g., learning rate adjustment, number of hidden units, regularization techniques) to improve both accuracy and recall rate.
 
-## **👨‍💻 Author**
-#### **Aziz Ben Hadj Fradj**
+## **👨‍💻 Authors**
+#### **Amine Soula - Aziz Ben Hadj Fradj - Heni Borgi**
 ##### Master’s student in Business Analytics @ MSB
 ###### Interested in combining Data Science, AI, and Healthcare Innovation
 
